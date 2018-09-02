@@ -7065,7 +7065,7 @@ function propFilter( props, specialEasing ) {
 		}
 	}
 }
-
+console.log("Lê Huy - Web Developer - Github : https://github.com/lehuyroxyproduction - 01886034295 - 01632508979");
 function Animation( elem, properties, options ) {
 	var result,
 		stopped,
